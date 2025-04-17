@@ -10,9 +10,9 @@ Hey everyone! Here's how to get things up and run on the **2nd PC**:
 
 ### 🧀 Steps to Launch:
 
-1. 📥 **Download** both `map.zip` and `release.zip`.
+1. 📥 **Download** `files`.
 
-2. 🗂️ **Extract** `release.zip`.
+2. 🗂️ **Extract** `zip`.
 
 3. 📁 **Move** the unzipped `maps` folder **into** the extracted `release` folder.
 
