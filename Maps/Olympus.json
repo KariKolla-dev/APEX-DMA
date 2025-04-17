@@ -1,0 +1,14 @@
+{
+  "mapID": [
+    "mp_rr_olympus_mu2"
+  ],
+  "x": 2365,
+  "y": 2185,
+  "scale": 0.0454,
+  "mapLayers": [
+    {
+      "minHeight": -100,
+      "filename": "Maps\\mp_rr_olympus_mu2.png"
+    }
+  ]
+}
