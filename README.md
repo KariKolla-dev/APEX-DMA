@@ -39,3 +39,6 @@ If it **still crashes**, follow these steps:
 This will show the missing applications or dependencies directly in the console, often with download links.
 
 Install whatever is missing, and you're good to go! 🚀
+
+![Image Description](https://freeimage.host/i/31SBBj4)
+
