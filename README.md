@@ -42,3 +42,5 @@ Install whatever is missing, and you're good to go! 🚀
 
 [![screen shots](https://i.postimg.cc/X74Z8Nbr/358973463-10410fad-dcde-4e6a-b747-e8b2d5084e15.webp)](https://postimg.cc/bdVNYhdP)
 
+[![screen shots](https://i.postimg.cc/zvSyr6nD/358973107-78e32c43-8265-477f-9034-5896184d6a37.webp)](https://postimg.cc/30N8jLSz)
+
