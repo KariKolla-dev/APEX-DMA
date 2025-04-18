@@ -40,5 +40,5 @@ This will show the missing applications or dependencies directly in the console,
 
 Install whatever is missing, and you're good to go! 🚀
 
-![Image Description](https://iili.io/31SBBj4.th.webp)
+[![screen shots](https://i.postimg.cc/X74Z8Nbr/358973463-10410fad-dcde-4e6a-b747-e8b2d5084e15.webp)](https://postimg.cc/bdVNYhdP)
 
