@@ -34,3 +34,8 @@ If it **still crashes**, follow these steps:
 2. ⌨️ Type the following and press Enter:
    ```bash
    apex-dma-radar.exe
+
+
+This will show the missing applications or dependencies directly in the console, often with download links.
+
+Install whatever is missing, and you're good to go! 🚀
