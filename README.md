@@ -1,4 +1,4 @@
-# 🎮 Welcome to APEX Legends DMA Setup Guide (v3.0.1.29)
+# 🎮 Welcome to APEX Legends DMA Setup Guide (v3.0.3.32)
 
 [![Join Our Discord](https://img.shields.io/badge/Join%20Us%20on%20Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/SuQsrtaFFz)
 
